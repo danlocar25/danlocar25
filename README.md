@@ -1,28 +1,10 @@
-<!-- Background Animation SVG -->
-<svg width="100%" height="200px" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
-      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:0" />
-      <stop offset="100%" style="stop-color:rgb(173,216,230);stop-opacity:1" />
-    </radialGradient>
-  </defs>
-  <!-- Grouping elements to animate together -->
-  <g>
-    <rect width="100%" height="100%" fill="url(#grad1)">
-      <animateTransform 
-        attributeName="transform"
-        type="translate"
-        values="0 0; 200 0; 0 0"
-        dur="10s"
-        repeatCount="indefinite" />
-    </rect>
-  </g>
-</svg>
-
-
 <!-- Main Content -->
 <div align="center">
   <h1>Hi 👋, I'm Dan Carlo!</h1>
+  <!-- Banner Image -->
+<div align="center">
+  <img src="https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/6529db5a9a8da6be30a065c8_7%2B%20Best%20Platforms%20To%20Hire%20a%20Skilled%20SaaS%20Software%20Developer.webp" alt="Banner Image" style="width: 100%; height: auto;" />
+</div>
   <h3>A recent IT graduate aspiring to become a Software Developer.</h3>
   <br>
   <p>
