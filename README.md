@@ -1,16 +1,24 @@
 <!-- Background Animation SVG -->
-<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" style="position:absolute; top:0; left:0; z-index:-1; opacity:0.8;">
+<svg width="100%" height="200px" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
       <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:0" />
       <stop offset="100%" style="stop-color:rgb(173,216,230);stop-opacity:1" />
     </radialGradient>
   </defs>
-  <rect width="100%" height="100%" fill="url(#grad1)">
-    <animate attributeName="x" values="0;200;0" dur="15s" repeatCount="indefinite" />
-    <animate attributeName="y" values="0;200;0" dur="15s" repeatCount="indefinite" />
-  </rect>
+  <!-- Grouping elements to animate together -->
+  <g>
+    <rect width="100%" height="100%" fill="url(#grad1)">
+      <animateTransform 
+        attributeName="transform"
+        type="translate"
+        values="0 0; 200 0; 0 0"
+        dur="10s"
+        repeatCount="indefinite" />
+    </rect>
+  </g>
 </svg>
+
 
 <!-- Main Content -->
 <div align="center">
