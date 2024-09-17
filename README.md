@@ -20,7 +20,7 @@
   </p>
 
   <p>
-    📄 Know about my experiences: <a href="https://drive.google.com/file/d/1Tz_gFhRREn0HdejzzLsigJlwKhCCZYVa/view?usp=sharing" target="_blank">My Resume</a>
+    📄 Know about my experiences: <a href="https://drive.google.com/file/d/1gz4KCZnY8590WvDWp-t8YOPI3dS8u48x/view?usp=sharing" target="_blank">My Resume</a>
   </p>
   <br>
   <h3>Connect with me:</h3>
