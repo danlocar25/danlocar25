@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/6529db5a9a8da6be30a065c8_7%2B%20Best%20Platforms%20To%20Hire%20a%20Skilled%20SaaS%20Software%20Developer.webp" alt="Banner Image" style="width: 100%; height: auto;" />
 </div>
-  <h3>A recent IT graduate aspiring to become a Software Developer.</h3>
+  <h3>A recent IT graduate aspiring to become a professional Software Developer.</h3>
   <br>
   <p>
     🌱 I’m currently learning <strong>MERN stack</strong>
