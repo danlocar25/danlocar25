@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Dan Carlo Magpantay! 👋
+# Hi, I'm Dan Carlo Magpantay! 
 
 ### Android Developer | Java & Kotlin | POS Systems & API Integration
 
@@ -14,7 +14,7 @@ Building reliable Android applications, connecting business systems, and writing
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm an **Android Developer with 2 years of professional software development experience**, specializing in commercial **Point-of-Sale (POS) systems** and business applications built with **Java and Kotlin**.
 
@@ -22,7 +22,7 @@ My work includes building and maintaining Android applications using **MVVM**, *
 
 I also work on production troubleshooting, application performance, local databases, and features aligned with Philippine **BIR requirements**. I value clean, maintainable code and close collaboration with backend developers and QA teams.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Android development**
 
@@ -62,7 +62,7 @@ I also work on production troubleshooting, application performance, local databa
 
 `SVN` · `Gitea` · `Firebase Crashlytics` · `Android Profiler` · `Visual Studio`
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Android Developer — JIMAC Incorporated
 *October 2024 – Present*
@@ -83,14 +83,14 @@ I also work on production troubleshooting, application performance, local databa
 - Developed a web application to automate internal hotfix processes and generate release notes.
 - Worked with Python, Django, REST APIs, PostgreSQL, jQuery, Redmine, Git, and GitLab.
 
-## 🎯 Areas of Focus
+## Areas of Focus
 
 - **Android engineering:** Maintainable architecture, modularization, reactive state, and application performance.
 - **System integration:** REST APIs, third-party booking systems, messaging, and real-time transaction workflows.
 - **POS solutions:** Payment processing, device integration, tax rules, reporting, and production reliability.
 - **Continuous learning:** Strengthening Android, backend, and software engineering skills.
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 **Bachelor of Science in Information Technology**  
 College of Sciences, Technology and Communications Inc. · 2020–2024
@@ -101,7 +101,7 @@ College of Sciences, Technology and Communications Inc. · 2020–2024
 - freeCodeCamp — Foundational C# with Microsoft
 - freeCodeCamp — JavaScript Algorithms and Data Structures
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -113,7 +113,7 @@ College of Sciences, Technology and Communications Inc. · 2020–2024
 
 > GitHub statistics reflect public GitHub activity and may not represent work completed in private company repositories.
 
-## 📬 Let's Connect
+## Let's Connect
 
 I'm interested in connecting with other developers and discussing Android development, system integration, and software engineering.
 
