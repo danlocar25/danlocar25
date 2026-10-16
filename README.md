@@ -120,7 +120,7 @@ I'm interested in connecting with other developers and discussing Android develo
 - 🌐 **Portfolio:** [dancarlo.vercel.app](https://dancarlo.vercel.app)
 - 💼 **LinkedIn:** [dan-carlo-magpantay](https://linkedin.com/in/dan-carlo-magpantay)
 - ✉️ **Email:** [dancarlom03@gmail.com](mailto:dancarlom03@gmail.com)
-- 📄 **Resume:** [View my resume](https://drive.google.com/file/d/1gz4KCZnY8590WvDWp-t8YOPI3dS8u48x/view?usp=sharing)
+- 📄 **Resume:** [View my resume](https://drive.google.com/file/d/1k0DLr4TXr-IExGtJ_0xeDcfUtNG2E7OW/view?usp=sharing)
 
 ---
 
